@@ -1,0 +1,72 @@
+Connected to server 10.12.176.250 on port 69 at Mon Dec 28 14:27:20 2020
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:27:34 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:27:34 2020
+
+***** Average download throughput = 3050.32 kB/s *****
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:27:50 2020
+[k.txt]:Upload 8 blks,3588 bytes,0 blks resend. Time: Mon Dec 28 14:27:50 2020
+
+***** Average upload throughput = 2869.70 kB/s *****
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:28:40 2020
+[k.txt]:Upload 8 blks,3588 bytes,0 blks resend. Time: Mon Dec 28 14:28:40 2020
+
+***** Average upload throughput = 3959.22 kB/s *****
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:28:54 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:28:55 2020
+
+***** Average download throughput = 3945.52 kB/s *****
+
+
+
+Connected to server 10.12.176.250 on port 69 at Mon Dec 28 14:34:15 2020
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:34:22 2020
+ERROR:Could not receive from server. Time: Mon Dec 28 14:34:25 2020
+
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:34:44 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:34:45 2020
+
+***** Average download throughput = 1021.64 kB/s *****
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:34:53 2020
+ERROR:Wait for DATA #1 timeout.
+[1.txt]>:Download 1 blks,0 bytes. Time: Mon Dec 28 14:35:26 2020
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:35:36 2020
+ERROR:Could not receive from server. Time: Mon Dec 28 14:35:40 2020
+
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:35:50 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:35:55 2020
+
+***** Average download throughput = 266.57 kB/s *****
+
+
+
+Connected to server 10.12.176.250 on port 69 at Mon Dec 28 14:37:28 2020
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:37:35 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:37:37 2020
+
+***** Average download throughput = 1072.98 kB/s *****
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:37:45 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:37:46 2020
+
+***** Average download throughput = 887.50 kB/s *****
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:37:53 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:37:54 2020
+
+***** Average download throughput = 881.68 kB/s *****
+Read request for fiel <1,txt>,mode netascii at Mon Dec 28 14:38:34 2020
+Connected to server 10.12.176.250 on port 69 at Mon Dec 28 14:39:04 2020
+Read request for fiel <1.txt>,mode netascii at Mon Dec 28 14:39:13 2020
+[1.txt]>:Download 8 blks,3717 bytes. Time: Mon Dec 28 14:39:19 2020
+
+***** Average download throughput = 206.02 kB/s *****
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:39:58 2020
+[k.txt]:Upload 8 blks,3588 bytes,0 blks resend. Time: Mon Dec 28 14:40:01 2020
+
+***** Average upload throughput = 397.27 kB/s *****
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:40:19 2020
+[k.txt]:Upload 8 blks,3588 bytes,0 blks resend. Time: Mon Dec 28 14:40:22 2020
+
+***** Average upload throughput = 377.78 kB/s *****
+Write request for fiel <k.txt>,mode netascii at Mon Dec 28 14:40:32 2020
+[k.txt]:Upload 8 blks,3588 bytes,0 blks resend. Time: Mon Dec 28 14:40:50 2020
+
+***** Average upload throughput = 70.49 kB/s *****
